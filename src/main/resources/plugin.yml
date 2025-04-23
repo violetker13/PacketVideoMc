@@ -1,0 +1,4 @@
+name: pmc
+version: '${project.version}'
+main: org.kaleb_b.pmc.Pmc
+api-version: '1.20'
