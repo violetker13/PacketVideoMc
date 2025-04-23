@@ -1,0 +1,4 @@
+name: pmc
+version: '1.0-SNAPSHOT'
+main: org.kaleb_b.pmc.Pmc
+api-version: '1.20'
